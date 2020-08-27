@@ -1,0 +1,21 @@
+.MuiTableHead-root {
+    background: #ffffff !important; /* for Head background  */
+}
+.MuiPaper-root {
+    background-color: #ffffff !important;  /* for COntent background  */
+    /* background-color: #cecaca; */
+}
+.MuiTableBody-root{
+  background:white;
+  border: 1px red solid;
+}
+
+.MuiTableCell-head {
+    color: rgb(49, 54, 70) !important;
+}
+.MuiTableCell-body {
+    color:rgb(66, 61, 61) !important;  /* color content background  */
+}
+.MuiTableCell-root {
+    border-bottom: 1px solid #e5e2eb !important;
+}
